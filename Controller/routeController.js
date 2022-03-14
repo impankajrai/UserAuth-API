@@ -1,5 +1,5 @@
 
-import UserModel from "../Model/UserModel.js";
+import UserModel from "../Model/userModel.js";
 
 
 export async function login(request, response) {
